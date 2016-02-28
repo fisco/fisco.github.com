@@ -1,0 +1,4 @@
+Just checking out VS Code.
+Maybe this will be good for Git.
+I'm on the VSCode branch! Awesome!
+OK, now I'm trying Atom.
